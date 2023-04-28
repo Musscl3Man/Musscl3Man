@@ -1,4 +1,1 @@
-<div style='align=right'>
-  <img src="https://th.bing.com/th/id/R.8b54bacdb7c7152ccfb8ad0ee2ec1362?rik=13X2S52JFr0TlA&pid=ImgRaw&r=0">
-![amigos]()
-</div>
+![amigos](https://th.bing.com/th/id/R.8b54bacdb7c7152ccfb8ad0ee2ec1362?rik=13X2S52JFr0TlA&pid=ImgRaw&r=0)
