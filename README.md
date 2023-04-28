@@ -1,7 +1,7 @@
 # Habilidades y tecnologías
 ¿Sabes quien más tiene habilidades y tecnologías?...
 
-<img align="right" style="width:52%" src="https://th.bing.com/th/id/R.8b54bacdb7c7152ccfb8ad0ee2ec1362?rik=13X2S52JFr0TlA&pid=ImgRaw&r=0">
+<img align="right" style="width:51%" src="https://th.bing.com/th/id/R.8b54bacdb7c7152ccfb8ad0ee2ec1362?rik=13X2S52JFr0TlA&pid=ImgRaw&r=0">
 <a href="https://github.com/Musscl3Man">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musscl3Man&theme=green&hide=glsl,python" />
   </a>
