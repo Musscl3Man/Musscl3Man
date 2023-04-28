@@ -1,2 +1,1 @@
-# heading 1
-Hola amigos
+# Hola amigos
